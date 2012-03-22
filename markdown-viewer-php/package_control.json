@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.1",
+	"packages": [
+		{
+			"name": "MarkdownViewer",
+			"description": "Linking between Sublime Text 2 and Markdown Viewer PHP",
+			"author": "daveespionage",
+			"homepage": "http://github.com/daveespionage/Sublime-Text-2-Markdown-Viewer-Plugin",
+			"last_modified": "2012-03-22 15:30:01",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.0.1",
+						"url": "https://github.com/daveespionage/Sublime-Text-2-Markdown-Viewer-Plugin/zipball/master"
+					}
+				]
+			}
+		}
+	]
+}

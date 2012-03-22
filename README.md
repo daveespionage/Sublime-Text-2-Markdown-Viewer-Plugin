@@ -16,3 +16,7 @@
 `  
 * Replace the value for "url" with your local url
 * Set "extended" to "" or remove the setting if you only want to use normal Markdown
+
+## To-Do  
+
+* Possibly convert plugin to do on-the-fly markdown conversion using this library: https://github.com/trentm/python-markdown2

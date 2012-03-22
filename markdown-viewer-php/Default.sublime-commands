@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "View Markdown: View Current File in Browser",
+        "command": "view_markdown"
+    },
+    {
+        "caption": "Preferences: View Markdown – Default",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/View Markdown/View Markdown.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: View Markdown – User",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/View Markdown.sublime-settings"
+        }
+    }
+]
