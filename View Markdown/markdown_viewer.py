@@ -5,33 +5,7 @@
 For documentation of the webbrowser module,
 see http://docs.python.org/library/webbrowser.html  
 
-Plugin has the following settings in View Markdown.sublime-settings  
-`
-	"markdown_viewer":  
-	{  
-		"url":"http://markdown.local/",  
-		"extended":"True"  
-	}  
-`
-Edit these using the command pallette
-
-* The value of "url" ("http://markdown.local") should be your local url for WolfieZeros PHP Markdown viewer  
-    (https://github.com/WolfieZero/Markdown-Viewer-PHP)  
-
-* The value of "extended" is either "True" or "" depending on whether you want the Markdown Extended support
-
-To Execute:  
-* From the console (ctrl + `) run  
-`	
-	view.run_command('view_markdown')
-`
-
-* This is the default key binding for all platforms:  
-`	
-	{ "keys": ["ctrl+alt+m"], "command": "view_markdown" }  
-`
-    The key binding files can be found in the plugin directory, and modified accordingly.
-
+See https://github.com/daveespionage/Sublime-Text-2-Markdown-Viewer-Plugin for more details
 """
 
 import os
