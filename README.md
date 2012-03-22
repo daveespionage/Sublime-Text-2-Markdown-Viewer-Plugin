@@ -1,4 +1,5 @@
-# Sublime Text 2 Markdown Viewer Plugin
+#Sublime Text 2 Markdown Viewer Plugin
+
 *By David Cox-Espenlaub*
 
 * Uses WolfieZero's Markdown-Viewer-PHP as configured as a local site (per the project's instructions)
