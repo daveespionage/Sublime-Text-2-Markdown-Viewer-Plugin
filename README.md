@@ -7,10 +7,12 @@
 
 * Currently in Alpha, script works from console in Sublime Text 2, but not as a plugin
 * Requires the following settings in Preferences.sublime-settings:
-    "markdown_viewer":
-    {
-    	"url":"http://markdown.local/",
-    	"extended":"True"
-    }
+`
+	"markdown_viewer":  
+	{  
+		"url":"http://markdown.local/",  
+		"extended":"True"  
+	}  
+`  
 * Replace the value for "url" with your local url
 * Set "extended" to "" or remove the setting if you only want to use normal Markdown
